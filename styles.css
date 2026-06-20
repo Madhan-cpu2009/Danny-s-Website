@@ -19,7 +19,7 @@ body {
   /* Use local uploaded image as the primary background (place dog.jpg in this folder) */
   background-image:
     linear-gradient(rgba(0,0,0,0.32), rgba(0,0,0,0.18)),
-    url("file_00000000e62872089b8546cbb7c65c0e (1).png"),
+    url("file_00000000e62872089b8546cbb7c65c0e (1).jpg"),
     radial-gradient(circle at 10% 10%, rgba(59,130,246,0.03), transparent 15%),
     radial-gradient(circle at 90% 90%, rgba(37,99,235,0.02), transparent 20%),
     linear-gradient(180deg, #f7f8fb 0%, #eef6ff 100%);
